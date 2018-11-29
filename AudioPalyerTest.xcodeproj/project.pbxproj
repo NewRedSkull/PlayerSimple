@@ -14,6 +14,12 @@
 		B507531921AFF8CC00833752 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B507531721AFF8CC00833752 /* LaunchScreen.storyboard */; };
 		B507532421AFF8CC00833752 /* AudioPalyerTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B507532321AFF8CC00833752 /* AudioPalyerTestTests.swift */; };
 		B507532F21AFF8CC00833752 /* AudioPalyerTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B507532E21AFF8CC00833752 /* AudioPalyerTestUITests.swift */; };
+		B507533D21AFFA0300833752 /* image.png in Resources */ = {isa = PBXBuildFile; fileRef = B507533C21AFFA0200833752 /* image.png */; };
+		B507533E21AFFA0300833752 /* image.png in Resources */ = {isa = PBXBuildFile; fileRef = B507533C21AFFA0200833752 /* image.png */; };
+		B507533F21AFFA0300833752 /* image.png in Resources */ = {isa = PBXBuildFile; fileRef = B507533C21AFFA0200833752 /* image.png */; };
+		B507534121AFFA5700833752 /* song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B507534021AFFA5700833752 /* song.mp3 */; };
+		B507534221AFFA5700833752 /* song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B507534021AFFA5700833752 /* song.mp3 */; };
+		B507534321AFFA5700833752 /* song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B507534021AFFA5700833752 /* song.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +53,8 @@
 		B507532A21AFF8CC00833752 /* AudioPalyerTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AudioPalyerTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B507532E21AFF8CC00833752 /* AudioPalyerTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPalyerTestUITests.swift; sourceTree = "<group>"; };
 		B507533021AFF8CC00833752 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B507533C21AFFA0200833752 /* image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image.png; sourceTree = "<group>"; };
+		B507534021AFFA5700833752 /* song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = song.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +110,8 @@
 				B507531221AFF8CB00833752 /* Main.storyboard */,
 				B507531521AFF8CC00833752 /* Assets.xcassets */,
 				B507531721AFF8CC00833752 /* LaunchScreen.storyboard */,
+				B507533C21AFFA0200833752 /* image.png */,
+				B507534021AFFA5700833752 /* song.mp3 */,
 				B507531A21AFF8CC00833752 /* Info.plist */,
 			);
 			path = AudioPalyerTest;
@@ -230,7 +240,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				B507531921AFF8CC00833752 /* LaunchScreen.storyboard in Resources */,
+				B507534121AFFA5700833752 /* song.mp3 in Resources */,
 				B507531621AFF8CC00833752 /* Assets.xcassets in Resources */,
+				B507533D21AFFA0300833752 /* image.png in Resources */,
 				B507531421AFF8CB00833752 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -239,6 +251,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B507533E21AFFA0300833752 /* image.png in Resources */,
+				B507534221AFFA5700833752 /* song.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,6 +260,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B507533F21AFFA0300833752 /* image.png in Resources */,
+				B507534321AFFA5700833752 /* song.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
